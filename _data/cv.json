@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Marcelo Oyarzo",
+    "email": "marceloandres.oyarzo@usc.es",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://moyarzoca.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -21,23 +21,23 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0003-4370-0568"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "moyarzoca",
+        "url": "https://github.com/moyarzoca"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "PhD student and UdeC and PoliTo",
+      "area": "Strong gravity, supergravity, higher curvature corrections to Einstein gravity",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
