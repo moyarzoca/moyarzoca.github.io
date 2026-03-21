@@ -1,5 +1,5 @@
 ---
-title: "The phase space of constrained systems: How to proceed when the \dot{q}'s cannot be solved in terms of the p's"
+title: "The phase space of constrained systems: How to proceed when the dot{q}'s cannot be solved in terms of the p's"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-10-10-talk-UdeC-phase-space
