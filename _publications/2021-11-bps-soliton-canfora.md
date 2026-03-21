@@ -1,5 +1,5 @@
 ---
-title: "New BPS solitons in $ \mathcal{N} $ = 4 gauged supergravity and black holes in Einstein-Yang-Mills-dilaton theory"
+title: "New BPS solitons in N = 4 gauged supergravity and black holes in Einstein-Yang-Mills-dilaton theory"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-new-bps-solitons-in-N4-gauged-supergravity
