@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-03-10-talk-CECs-valdivia
 venue: "Escuela de gravitación y Relatividad General"
-date: 2020-03
+date: 2020-03-08
 location: " Valdivia, Chile"
 ---
 
