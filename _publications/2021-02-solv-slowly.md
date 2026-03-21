@@ -1,7 +1,7 @@
 ---
 title: "Slowly rotating black holes modeled by Solv geometries"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2020-slowly-rotating-black-holes-modeled-by-solv-geometries
 excerpt: 'Construction of slowly rotating black hole solutions based on Solv geometries and analysis of their geometric structure.'
 date: 2021-02-01
