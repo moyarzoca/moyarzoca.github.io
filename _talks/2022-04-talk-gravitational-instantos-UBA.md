@@ -7,4 +7,5 @@ venue: "Seminar at theory group of Universidad de Buenos Aires"
 date: 2022-04-14
 location: "Buenos Aires, Argentina"
 ---
-Talk based on the paper https://arxiv.org/abs/2202.13854
+
+Based on [Gravitational instantons with conformally coupled scalar fields](/publication/2022-gravitations-instantons-with-scalar)

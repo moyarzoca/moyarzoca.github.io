@@ -8,4 +8,4 @@ date: 2021-10-07
 location: "Concepción, Chile"
 ---
 
-Talk based on (https://arxiv.org/abs/2111.11915) about new black holes constructed in the context of gauged SU(2)xSU(2) gauged supergravity in D=4 suported by a non-Abelian gauge field.
+Based on work in progress at the time: [New BPS solitons in N = 4 gauged supergravity and black holes in Einstein-Yang-Mills-dilaton theory](/publication/2021-new-bps-solitons-in-N4-gauged-supergravity)

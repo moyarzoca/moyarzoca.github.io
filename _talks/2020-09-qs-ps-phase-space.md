@@ -7,4 +7,5 @@ venue: "Weekly seminars at gravity group of Universidad de Concepción"
 date: 2020-09-10
 location: " Concepción, Chile"
 ---
-Review talk of Hamiltonian formalism in the presece of lconstraint.
+
+Review talk about Hamiltonian formalism in the presece of constraint.
