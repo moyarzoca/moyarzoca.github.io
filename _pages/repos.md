@@ -47,10 +47,46 @@ Among other things. If you understand this small piece of ideas that I try to pe
 
 ---
 
-## TensoXport
 
+## TensorXport
+
+`TensorXport` is a Mathematica module I wrote for **xAct**, created to address the need to write xAct tensors in **Maple** with [GRTensorIII](github.com/grtensor/grtensor), which can sometimes be faster for algebraic manipulations. The repository is [here](https://github.com/moyarzoca/TensorXport). The two main functionalities are:
+
+- **`ToGRTensor`**: Converts xAct expressions into GRTensor Maple strings for easy export.  
+- **`IntegrateByParts`**: Performs integration by parts on expressions quadratic in the perturbation `hh` with covariant derivatives `CD`.
+
+> **Note:** Covariant derivative and perturbation names are hardcoded.
 
 ---
 
-## PhD thesis
+### Key Features
 
+1. **Export xAct expressions**:  
+```mathematica
+ToGRTensor[expr]
+````
+
+2. **Integrate by parts** with a defined boundary context:
+
+```mathematica
+DefTensor[norm[a], M]
+boundyContext = SetNormalVector[norm, M];
+IntegrateByParts[boundyContext][expr]
+```
+
+3. **Extract differential operators** from quadratic perturbation terms:
+
+```mathematica
+DefTensor[auxH[-a,-b], M, Symmetric[{-a,-b}]];
+ExtractOperator[auxH[-a,-b]][hDh]
+```
+
+---
+
+`TensorXport` streamlines xAct workflows, making it easier to export, manipulate, and analyze perturbative expressions in Maple and Mathematica.
+
+```
+
+This keeps **everything essential**: what the module does, the main functions, and example usage, but avoids step-by-step verbose instructions.  
+
+---
