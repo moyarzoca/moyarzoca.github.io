@@ -1,8 +1,8 @@
 ---
-title: "Selected repositories"
 permalink: /repos/
-layout: single
+title: "Selected repositories"
 author_profile: true
+layout: single
 ---
 
 {% include toc %}
