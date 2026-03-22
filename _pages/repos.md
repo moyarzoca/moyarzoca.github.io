@@ -1,27 +1,24 @@
 ---
-title: "Code"
+title: "Selected repositories"
 permalink: /repos/
 layout: single
 author_profile: true
 ---
 
-# Selected repositories
+{% include toc %}
 
-### tensor-geometry
-https://github.com/moyarzoca/tensor-geometry
+## PaillacoDiff
 
-Symbolic differential geometry tools.
+PaillacoDiff is Wolfram Mathematica package that allow to do computations of (pseudo-)Riemannian geometry and differential forms for a given chart.
 
----
-
-### holography-tools
-https://github.com/moyarzoca/holography-tools
-
-Utilities for AdS/CFT calculations.
+For instance, if you have coordinates $$x^\mu = (t,r,x,y)$$, then you have a basis of the 1-form space $$dx^\mu$$, and you can construct higher-degree forms using the wedge product.
 
 ---
 
-### gr-notebooks
-https://github.com/moyarzoca/gr-notebooks
+## TensoXport
 
-General relativity notebooks (Mathematica / Python).
+
+---
+
+## PhD thesis
+
