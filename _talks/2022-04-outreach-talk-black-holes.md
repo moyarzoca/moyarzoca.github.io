@@ -1,5 +1,5 @@
 ---
-title: "¿Qué hay en el interior de los aguejeros negros?"
+title: "¿Qué hay en el interior de los agujeros negros?"
 collection: talks
 type: "Outreach Talk"
 permalink: /talks/2022-04-13-talk-bh-soliton-sugra
