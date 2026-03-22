@@ -10,4 +10,4 @@ location: "Paillaco, Chile"
 
 Outreach talk about the concept of time and how it was evolved in the last 400 years. Focused for 3rd- and 4th-year students of Chilean secondary media education at Liceo RAP, Paillaco.
 
-![Photos of the event](/images/charla_rap_2.png)
+![Photo of the event](/images/charla_rap_2.png)
