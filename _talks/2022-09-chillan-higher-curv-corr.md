@@ -3,7 +3,7 @@ title: "Perturbative higher curvature corrections of black holes in string-inspi
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-14-higher-curv-corr-black-holes
-venue: "Talk at Cosmology and Particles 2022 UBB, Chillan"
+venue: "Cosmology and Particles 2022 UBB"
 date: 2022-09-22
 location: "Chillan, Chile"
 ---

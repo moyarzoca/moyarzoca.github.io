@@ -3,7 +3,7 @@ title: "Supersymmetric AdS solitons in type IIB"
 collection: talks
 type: "Journal Club"
 permalink: /talks/2024-04-10-unito-susy-ads-solitons
-venue: "Universita di Torino, Torino"
+venue: "Universita di Torino"
 date: 2024-04-10
 location: "Torino, Italy"
 ---

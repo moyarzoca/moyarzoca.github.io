@@ -1,9 +1,9 @@
 ---
 title: "Gravitational instantons with conformally coupled scalar fields"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2022-04-14-grav-instantons-conf-coupled
-venue: "Seminar at gravity group of Universidad de Concepción"
+venue: "Gravity group of Universidad de Concepción"
 date: 2022-04-25
 location: "Concepción, Chile"
 ---

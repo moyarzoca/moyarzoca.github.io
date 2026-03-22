@@ -3,7 +3,7 @@ title: "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA"
 collection: talks
 type: "Seminar"
 permalink: /talks/2024-10-17-black-holes-stu-model
-venue: "ICC Universitat de Barcelona, Spain"
+venue: "ICC Universitat de Barcelona"
 date: 2024-10-17
 location: "Barcelona, Spain"
 ---

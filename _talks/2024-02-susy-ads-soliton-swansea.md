@@ -1,9 +1,9 @@
 ---
 title: "Supersymmetric AdS solitons and phase transitions in N = 4 SYM"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2024-02-27-swansea-susy-ads-solitons
-venue: "Seminar at Swansea University, Swansea"
+venue: "Swansea University"
 date: 2024-02-27
 location: "Swansea, Wales"
 ---

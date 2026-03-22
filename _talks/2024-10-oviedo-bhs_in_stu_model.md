@@ -3,7 +3,7 @@ title: "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA"
 collection: talks
 type: "Seminar"
 permalink: /talks/2024-10-15-black-holes-stu-model
-venue: "Universidad de Oviedo, Oviedo"
+venue: "Universidad de Oviedo"
 date: 2024-10-15
 location: "Oviedo, Spain"
 ---

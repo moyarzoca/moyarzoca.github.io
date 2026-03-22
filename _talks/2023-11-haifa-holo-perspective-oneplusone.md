@@ -3,7 +3,7 @@ title: "An holographic perspective of a (1+1) confining field theory"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-11-16-holo-perspective-oneplusone
-venue: "Seminar at Haifa University"
+venue: "Haifa University"
 date: 2023-11-16
 location: "Haifa, Israel"
 ---

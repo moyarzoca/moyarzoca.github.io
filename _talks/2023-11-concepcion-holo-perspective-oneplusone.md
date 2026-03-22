@@ -1,9 +1,9 @@
 ---
 title: "An holographic perspective of a (1+1) confining field theory"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-11-15-holo-perspective-oneplusone
-venue: "Seminar at Udec Gravity Group"
+venue: "Udec Gravity Group"
 date: 2023-11-15
 location: "Concepción, Chile"
 ---

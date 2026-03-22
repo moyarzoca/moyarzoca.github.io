@@ -1,5 +1,5 @@
 ---
-title: "Stability of Black Holes in the STU Model of D=4, N=8Gauged Supergravity"
+title: "Stability of Black Holes in the STU Model of D=4, N=8 Gauged Supergravity"
 collection: talks
 type: "Seminar"
 permalink: /talks/2025-04-13-black-holes-stu-model

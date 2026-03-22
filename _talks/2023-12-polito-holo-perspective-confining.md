@@ -1,9 +1,9 @@
 ---
 title: "An holographic perspective of a confining field theory in type IIB"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-12-18-polito-holo-perspective-confining
-venue: "Seminar at Politecnico di Torino"
+venue: "Politecnico di Torino"
 date: 2023-12-18
 location: "Torino, Italy"
 ---

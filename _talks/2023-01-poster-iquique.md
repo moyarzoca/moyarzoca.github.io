@@ -3,7 +3,7 @@ title: "Confining and deconfining backgrounds in type IIB supergravity"
 collection: talk
 type: "Poster"
 permalink: /talks/2023-01-18-poster-confining-deconfing-background-typeIIB
-venue: "NordGrav@ICEN UNAP, Iquique"
+venue: "NordGrav@ICEN UNAP"
 date: 2023-01-18
 location: "Iquique, Chile"
 ---

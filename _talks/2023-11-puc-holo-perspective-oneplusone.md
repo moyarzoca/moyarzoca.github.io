@@ -1,9 +1,9 @@
 ---
 title: "An holographic perspective of a confining field theory in type IIB"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2023-11-17-holo-perspective-oneplusone
-venue: "Seminar at Pontificia Universidad Catolica, Santiago"
+venue: "Pontificia Universidad Catolica"
 date: 2023-11-17
 location: "Santiago, Chile"
 ---

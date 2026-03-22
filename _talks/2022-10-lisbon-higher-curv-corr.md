@@ -3,7 +3,7 @@ title: "Perturbative higher curvature corrections of black holes and black strin
 collection: talks
 type: "Seminar"
 permalink: /talks/2022-10-16-higher-curv-corr-black-holes
-venue: "Centra, Universidad de Lisbon"
+venue: "Centra, Universidade de Lisboa"
 date: 2022-10-16
 location: "Lisbon, Portugal"
 ---

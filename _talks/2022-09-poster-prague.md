@@ -3,7 +3,7 @@ title: "New black holes and solitons in gauged supergravity and their scalar (qu
 collection: talk
 type: "Poster"
 permalink: /talks/2022-09-22-poster-black-holes-solitons-quasi
-venue: "Gravity@Prague 2022, Charles University, Prague"
+venue: "Gravity@Prague 2022, Charles University"
 date: 2022-09-22
 location: "Prague, Czech Republic"
 ---

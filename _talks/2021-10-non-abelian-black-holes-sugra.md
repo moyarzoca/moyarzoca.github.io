@@ -1,9 +1,9 @@
 ---
 title: "Non-Abelian black holes in Einstein-Yang-Mills-Dilaton and their embedding in supergravity"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/2021-10-07-talk-non-abelian-black-holes
-venue: "Weekly seminars at gravity group of the Unversidad de Concepción"
+venue: "Universidad de Concepción"
 date: 2021-10-07
 location: "Concepción, Chile"
 ---

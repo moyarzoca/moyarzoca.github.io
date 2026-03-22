@@ -3,7 +3,7 @@ title: "Supersymmetric AdS solitons and phase transitions in N = 4 SYM"
 collection: talks
 type: "Seminar"
 permalink: /talks/2024-05-27-ictp-susy-ads-solitons
-venue: "ICTP, Triest"
+venue: "ICTP, Trieste"
 date: 2024-05-27
 location: "Trieste, Italy"
 ---
