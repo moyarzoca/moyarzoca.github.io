@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Marcelo A. Oyarzo Catalan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marcelo Andres Oyarzo Catalan"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Marcelo A. Oyarzo Catalán"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical Physicist — Gravity, Holography, and Geometry. Postdoct researcher, Santiago de Compostela (2026-present)"
+  bio              : "Theoretical Physicist — Gravity, Holography, and Geometry. Postdoc researcher, Santiago de Compostela (2026-present)"
   location         : "Santiago de Compostela, Spain"
   employer         : "Universidade de Santiago de Compostela"
   uri              : # URL
@@ -168,6 +168,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _pages/porfolio
   - .asset-cache
   - .bundle
   - .github
