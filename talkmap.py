@@ -8,6 +8,7 @@
 import frontmatter
 import glob
 import getorg
+import time
 from geopy import Nominatim
 from geopy.exc import GeocoderTimedOut
 
@@ -44,6 +45,7 @@ for file in g:
     try:
         location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)
         print(description, location_dict[description])
+        time.sleep(1.2) 
     except ValueError as ex:
         print(f"Error: geocode failed on input {location} with message {ex}")
     except GeocoderTimedOut as ex:
