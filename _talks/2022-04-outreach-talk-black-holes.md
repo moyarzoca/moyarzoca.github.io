@@ -10,4 +10,4 @@ location: "Paillaco, Chile"
 
 Outreach talk about science and black holes for 3rd- and 4th-year students of Chilean secondary media education at Liceo RAP, Paillaco.
 
-![Photos of the event](images/charla_rap_1.png)
+![Photos of the event](/images/charla_rap_1.png)
