@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-04-30
 venue: 'PoS CORFU2024 (2025) 178'
 paperurl: 'https://arxiv.org/abs/2504.16822'
-citation: ''
+citation: 'Stefano Maurelli, Ruggero Noris, Marcelo Oyarzo, Mario Trigiante'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We review a general paradigm for constructing U-fold backgrounds in (dimensionally reduced) Type IIB superstring theory, of the form AdS_(d−1)×S^1×S^d, with a monodromy along S^1 in the string-duality group. We also consider a special instance with d=3 in Type IIB superstring theory, discuss its ten-dimensional uplift and assess its supersymmetry. 
