@@ -2,7 +2,7 @@
 title: "Perturbative higher curvature corrections of black holes and black strings"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-09-22-higher-curv-corr-blackholes
+permalink: /talks/2022-09-22-higher-curv-corr-black-holes
 venue: "Relativity Seminar at Institute of Mathematics of the Czech Academy of Sciences"
 date: 2022-09-22
 location: "Prague, Czech Republic"
