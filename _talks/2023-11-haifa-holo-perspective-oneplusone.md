@@ -1,5 +1,5 @@
 ---
-title: "An holographic perspective of a (1+1) confining field theory"
+title: "A holographic perspective of a (1+1) confining field theory"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-11-16-holo-perspective-oneplusone

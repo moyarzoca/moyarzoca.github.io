@@ -5,7 +5,7 @@ var addressPoints = [
     -72.8726695
   ],
   [
-    "Perturbative higher curvature corrections of black holes in string-inspired scenarios<br />Talk at Cosmology and Particles 2022 UBB, Chillan; Chillan, Chile",
+    "Perturbative higher curvature corrections of black holes in string-inspired scenarios<br />Cosmology and Particles 2022 UBB; Chillan, Chile",
     -36.6066616,
     -72.1033194
   ],
@@ -15,7 +15,7 @@ var addressPoints = [
     2.320041
   ],
   [
-    "Supersymmetric AdS solitons and phase transitions in N = 4 SYM<br />Seminar at Swansea University, Swansea; Swansea, Wales",
+    "Supersymmetric AdS solitons and phase transitions in N = 4 SYM<br />Swansea University; Swansea, Wales",
     51.6195955,
     -3.9459248
   ],
@@ -25,17 +25,17 @@ var addressPoints = [
     -73.0502064
   ],
   [
-    "New black holes and solitons in gauged supergravity and their scalar (quasi-)normal modes<br />Gravity@Prague 2022, Charles University, Prague; Prague, Czech Republic",
+    "New black holes and solitons in gauged supergravity and their scalar (quasi-)normal modes<br />Gravity@Prague 2022, Charles University; Prague, Czech Republic",
     50.0850112,
     14.4265172
   ],
   [
-    "Supersymmetric AdS solitons and phase transitions in N = 4 SYM<br />ICTP, Triest; Trieste, Italy",
+    "Supersymmetric AdS solitons and phase transitions in N = 4 SYM<br />ICTP, Trieste; Trieste, Italy",
     45.6496485,
     13.7772781
   ],
   [
-    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />Universidad de Oviedo, Oviedo; Oviedo, Spain",
+    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />Universidad de Oviedo; Oviedo, Spain",
     43.3533452,
     -5.8795096
   ],
@@ -45,12 +45,12 @@ var addressPoints = [
     -70.8529753
   ],
   [
-    "Novel solitonic background in type IIB supergravity<br />Universtia degli Studi di Milano-Bicocca; Milan, Italy",
+    "Novel solitonic background in type IIB supergravity<br />Universit\u00e0 degli Studi di Milano-Bicocca; Milan, Italy",
     45.4641943,
     9.1896346
   ],
   [
-    "An holographic perspective of a confining field theory in type IIB<br />Seminar at Pontificia Universidad Catolica, Santiago; Santiago, Chile",
+    "An holographic perspective of a confining field theory in type IIB<br />Pontificia Universidad Catolica; Santiago, Chile",
     -33.4376995,
     -70.6510671
   ],
@@ -60,7 +60,7 @@ var addressPoints = [
     -8.5458608
   ],
   [
-    "Gravitational instantons with conformally coupled scalar fields<br />Seminar at theory group of Universidad de Buenos Aires; Buenos Aires, Argentina",
+    "Gravitational instantons with conformally coupled scalar fields<br />Terapia de grupo, Universidad de Buenos Aires; Buenos Aires, Argentina",
     -34.6095579,
     -58.3887904
   ],
@@ -75,7 +75,7 @@ var addressPoints = [
     14.4265172
   ],
   [
-    "Non-Abelian black holes in Einstein-Yang-Mills-Dilaton and their embedding in supergravity<br />Weekly seminars at gravity group of the Unversidad de Concepci\u00f3n; Concepci\u00f3n, Chile",
+    "Non-Abelian black holes in Einstein-Yang-Mills-Dilaton and their embedding in supergravity<br />Universidad de Concepci\u00f3n; Concepci\u00f3n, Chile",
     -36.8270698,
     -73.0502064
   ],
@@ -85,7 +85,7 @@ var addressPoints = [
     -46.6333824
   ],
   [
-    "An holographic perspective of a confining field theory in type IIB<br />Seminar at Politecnico di Torino; Torino, Italy",
+    "An holographic perspective of a confining field theory in type IIB<br />Politecnico di Torino; Torino, Italy",
     45.0677551,
     7.6824892
   ],
@@ -95,52 +95,57 @@ var addressPoints = [
     -73.2459859
   ],
   [
-    "Confining and deconfining backgrounds in type IIB supergravity<br />NordGrav@ICEN UNAP, Iquique; Iquique, Chile",
+    "Confining and deconfining backgrounds in type IIB supergravity<br />NordGrav@ICEN UNAP; Iquique, Chile",
     -20.2140657,
     -70.1524646
   ],
   [
-    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />ICC Universitat de Barcelona, Spain; Barcelona, Spain",
+    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />ICC Universitat de Barcelona; Barcelona, Spain",
     41.3825802,
     2.177073
   ],
   [
-    "Hablemos del tiempo: desde la concepci\u00f3n Newtoniana a la Relatividad General<br />Liceo Rodulfo Amando Philippi de Paillaco; Paillaco, Chile",
+    "Hablemos del tiempo: de la concepci\u00f3n Newtoniana a la Relatividad General<br />Liceo Rodulfo Amando Philippi de Paillaco; Paillaco, Chile",
     -40.0706633,
     -72.8726695
   ],
   [
-    "Stability of Black Holes in the STU Model of D=4, N=8Gauged Supergravity<br />IGFAE, Universidade de Santiago de Compostela; Santiago de Compostela, Spain",
+    "Stability of Black Holes in the STU Model of D=4, N=8 Gauged Supergravity<br />IGFAE, Universidade de Santiago de Compostela; Santiago de Compostela, Spain",
     42.8804219,
     -8.5458608
   ],
   [
-    "An holographic perspective of a (1+1) confining field theory<br />Seminar at Haifa University; Haifa, Israel",
+    "An holographic perspective of a (1+1) confining field theory<br />Haifa University; Haifa, Israel",
     32.8191218,
     34.9983856
   ],
   [
-    "Perturbative higher curvature corrections of black holes and black strings<br />Seminar at Swansea University; Swansea, Wales",
+    "Perturbative higher curvature corrections of black holes and black strings<br />Swansea University; Swansea, Wales",
     51.6195955,
     -3.9459248
   ],
   [
-    "An holographic perspective of a (1+1) confining field theory<br />Seminar at Udec Gravity Group; Concepci\u00f3n, Chile",
+    "An holographic perspective of a (1+1) confining field theory<br />Udec Gravity Group; Concepci\u00f3n, Chile",
     -36.8270698,
     -73.0502064
   ],
   [
-    "Gravitational instantons with conformally coupled scalar fields<br />Seminar at gravity group of Universidad de Concepci\u00f3n; Concepci\u00f3n, Chile",
+    "Gravitational instantons with conformally coupled scalar fields<br />Gravity group of Universidad de Concepci\u00f3n; Concepci\u00f3n, Chile",
     -36.8270698,
     -73.0502064
   ],
   [
-    "Perturbative higher curvature corrections of black holes and black strings<br />Seminar at Universit\u00e9 Libre de Bruxelles; Brussels, Belgium",
+    "Stability of Black Holes in the STU Model of D=4, N=8 Gauged Supergravity<br />Universita degli Studi di Torino; Torino, Italy",
+    45.0677551,
+    7.6824892
+  ],
+  [
+    "Perturbative higher curvature corrections of black holes and black strings<br />Universit\u00e9 Libre de Bruxelles; Brussels, Belgium",
     50.8467372,
     4.352493
   ],
   [
-    "Supersymmetric AdS solitons in type IIB<br />Universita di Torino, Torino; Torino, Italy",
+    "Supersymmetric AdS solitons in type IIB<br />Universita di Torino; Torino, Italy",
     45.0677551,
     7.6824892
   ],
@@ -150,12 +155,12 @@ var addressPoints = [
     -57.9537638
   ],
   [
-    "Perturbative higher curvature corrections of black holes and black strings<br />Centra, Universidad de Lisbon; Lisbon, Portugal",
+    "Perturbative higher curvature corrections of black holes and black strings<br />Centra, Universidade de Lisboa; Lisbon, Portugal",
     38.7077507,
     -9.1365919
   ],
   [
-    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />Universt\u00e9 libre de Bruxelles; Brussels, Belgium",
+    "Black Holes in the STU Model of Gauged D=4 N=8 SUGRA<br />Universit\u00e9 libre de Bruxelles; Brussels, Belgium",
     50.8467372,
     4.352493
   ]

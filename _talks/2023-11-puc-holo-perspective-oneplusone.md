@@ -1,5 +1,5 @@
 ---
-title: "An holographic perspective of a confining field theory in type IIB"
+title: "A holographic perspective of a confining field theory in type IIB"
 collection: talks
 type: "Seminar"
 permalink: /talks/2023-11-17-holo-perspective-oneplusone
