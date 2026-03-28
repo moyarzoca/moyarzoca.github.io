@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I am **Marcelo Oyarzo**, a theoretical physicist working on gravity and related aspects of quantum field theory.
 
-I obtained my Master's degree at the Universidad de Concepción. I then pursued my PhD at the same institution in cotutelle with the Politecnico di Torino, under the supervision of Julio Oliva, Andrés, Anabalón and Mario Trigiante. During this period I spent two years in Concepción and two years in Torino. As of 2026, I am a postdoctoral researcher in Santiago de Compostela.
+I obtained my Master's degree at the Universidad de Concepción. I then pursued my PhD at the same institution in cotutelle with the Politecnico di Torino, under the supervision of Julio Oliva, Andrés Anabalón and Mario Trigiante. During this period I spent two years in Concepción and two years in Torino. As of 2026, I am a postdoctoral researcher in Santiago de Compostela.
 
 ---
 
@@ -23,7 +23,7 @@ One direction concerns **top-down holography**, where the goal is to construct g
 
 Another line of research involves **higher-curvature corrections** to Einstein’s general relativity. Such corrections are expected to arise in any consistent quantum theory of gravity and are predicted, for instance, by string theory, which provides a consistent interacting framework containing massless spin-2 particles. I typically study black hole solutions in a perturbative regime in the higher-curvature couplings, analysing how these corrections modify their physical observables.
 
-During the last year (2025/2026) I start working on quiet different topic in the context of use of neural networks for the solution of differential equations. This type of approach goes under the name of PINNs. The idea is to use the machinary developed the last years to construct trustable solution of rotating black holes in Higher curvature corrections to Einstein gravity.
+During the last year (2025/2026) I start working on quite different topic in the context of use of neural networks for the solution of differential equations. This type of approach goes under the name of PINNs. The idea is to use the machinary developed the last years to construct trustable solution of rotating black holes in Higher curvature corrections to Einstein gravity.
 
 ---
 
