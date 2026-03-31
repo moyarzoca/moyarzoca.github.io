@@ -43,7 +43,7 @@ $$
 }
 $$
 
-and as usual $A_{[ab]}=\frac{1}{2}(A_{ab}-A_{ba})$. Then, for the generalized Kronecker delta with rank equal to the dimension of the spacetime
+and as usual the (anti-)symmetrization is with weight one, namely \\(A_{[ab]}=\frac{1}{2}(A_{ab}-A_{ba})\\). Then, for the generalized Kronecker delta with rank equal to the dimension of the spacetime
 
 $$
 \displaylines{
