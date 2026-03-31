@@ -12,10 +12,13 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Repos"
-    url: /repos/    
+    url: /repos/
+
+  - title: "Conventions"
+    url: /conventions/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
