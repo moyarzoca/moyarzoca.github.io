@@ -1,5 +1,5 @@
 ---
-title: "Statistical Physics"
+title: "Statistical Physics 2021"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2021-statistical-physics-1

@@ -1,5 +1,5 @@
 ---
-title: "Electromagnetism"
+title: "Electromagnetism 2018"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2018-electromagnetism-1

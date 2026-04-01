@@ -1,5 +1,5 @@
 ---
-title: "Classical Mechanics"
+title: "Classical Mechanics 2022"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2022-classical-mechanics-1
