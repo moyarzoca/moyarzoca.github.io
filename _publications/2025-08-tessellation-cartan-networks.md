@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-tessellation-groups-cartan-convolutional-neural-networks
 excerpt: ''
 date: 2025-08-22
-venue: 'Accepted for publication in Fortschritte der Physik'
+venue: 'Fortschritte der Physik 74 (2026) 4, e70099'
 paperurl: 'https://arxiv.org/abs/2508.16015'
 citation: 'Pietro Fré, Federico Milanesio, Marcelo Oyarzo, Matteo Santoro, Mario Trigiante'
 ---

@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-isospin-from-iso-spin-meron
 excerpt: ''
 date: 2025-12-01
-venue: 'Accepted for publication in JHEP'
+venue: 'JHEP 04 (2026) 161'
 paperurl: 'https://arxiv.org/abs/2512.02120'
 citation: 'Marcelo Oyarzo, Ricardo Stuardo'
 ---

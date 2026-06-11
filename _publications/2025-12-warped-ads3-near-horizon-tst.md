@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-warped-ads3-ner-horizon-tst
 excerpt: ''
 date: 2025-12-01
-venue: 'Accepted for publication in JHEP'
+venue: 'JHEP 03 (2026) 186'
 paperurl: 'https://arxiv.org/abs/2512.01770'
 citation: 'Stefano Maurelli, Ruggero Noris, Marcelo Oyarzo, Mario Trigiante'
 ---

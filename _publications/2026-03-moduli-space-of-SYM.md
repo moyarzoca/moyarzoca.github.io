@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-moduli-space-SYM
 excerpt: ''
 date: 2026-03-18
-venue: 'Submitted for peer review'
+venue: 'JHEP 05 (2026) 251'
 paperurl: 'https://arxiv.org/abs/2603.18141'
 citation: 'Andrés Anabalón, Horatiu Nastase, Carlos Nunez, Marcelo Oyarzo, Ricardo Stuardo'
 ---
