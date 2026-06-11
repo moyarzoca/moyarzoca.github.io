@@ -43,7 +43,7 @@ These are the basics of `PaillacoDiff`, this is how it was thought. On the top o
 - Curvature 2-form
 - Contraction operator
 
-Among other things. If you understand this small piece of ideas that I try to persure with `PaillacoDiff` I encorage you to clone or download the repo and play with it!
+Among other things. If you understand this small piece of ideas that I try to pursue with `PaillacoDiff` I encorage you to clone or download the repo and play with it!
 
 ---
 
