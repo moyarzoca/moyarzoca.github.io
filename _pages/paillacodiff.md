@@ -143,7 +143,7 @@ marked.use(markedKatex({
 }));
 
 const base =
-  "https://raw.githubusercontent.com/moyarzoca/PaillacoDiff/refactor/public-api/";
+  "https://raw.githubusercontent.com/moyarzoca/PaillacoDiff/main/";
 
 const documents = [
   base + "docs/reference.md",
