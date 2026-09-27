@@ -9,23 +9,20 @@ layout: single
   Loading documentation...
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css"
+>
+
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked-katex-extension/lib/index.umd.js"></script>
 
 <script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    displayMath: [['$$', '$$']]
-  }
-};
-</script>
+marked.use(markedKatex({
+  throwOnError: false
+}));
 
-<script
-  id="MathJax-script"
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-<script>
 const base =
   "https://raw.githubusercontent.com/moyarzoca/PaillacoDiff/refactor/public-api/";
 
@@ -41,8 +38,8 @@ Promise.all(
   )
 ).then(documents => {
   document.getElementById("paillacodiff-docs").innerHTML =
-    documents.map(markdown => marked.parse(markdown)).join("<hr>");
-
-  MathJax.typesetPromise();
+    documents
+      .map(markdown => marked.parse(markdown))
+      .join("<hr>");
 });
 </script>
