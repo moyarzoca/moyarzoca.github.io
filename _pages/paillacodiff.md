@@ -76,6 +76,30 @@ layout: single
 #paillacodiff-docs .token.builtin {
   color: #22b3eb;
 }
+
+/* Function reference layout */
+#paillacodiff-reference h3 {
+  border-bottom: none;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+#paillacodiff-reference hr {
+  border: 0;
+  border-top: 2px solid var(--global-border-color);
+  margin: 2rem 0;
+}
+
+#paillacodiff-reference h2 {
+  margin-top: 3rem;
+}
+
+/* Separate the conventions document from the reference */
+#paillacodiff-conventions {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 3px solid var(--global-border-color);
+}
 </style>
 
 <script>
@@ -87,7 +111,6 @@ const base =
   "https://raw.githubusercontent.com/moyarzoca/PaillacoDiff/refactor/public-api/";
 
 const documents = [
-  base + "README.md",
   base + "docs/reference.md",
   base + "docs/conventions.md"
 ];
@@ -100,9 +123,13 @@ Promise.all(
   const container = document.getElementById("paillacodiff-docs");
 
   container.innerHTML =
-    documents
-      .map(markdown => marked.parse(markdown))
-      .join("<hr>");
+    `<div id="paillacodiff-reference">
+      ${marked.parse(documents[0])}
+    </div>
+
+    <div id="paillacodiff-conventions">
+      ${marked.parse(documents[1])}
+    </div>`;
 
   Prism.highlightAllUnder(container);
 });
