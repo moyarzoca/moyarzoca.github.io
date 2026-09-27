@@ -12,6 +12,20 @@ layout: single
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
 <script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$']],
+    displayMath: [['$$', '$$']]
+  }
+};
+</script>
+
+<script
+  id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script>
 const base =
   "https://raw.githubusercontent.com/moyarzoca/PaillacoDiff/refactor/public-api/";
 
@@ -28,9 +42,7 @@ Promise.all(
 ).then(documents => {
   document.getElementById("paillacodiff-docs").innerHTML =
     documents.map(markdown => marked.parse(markdown)).join("<hr>");
-    
-  if (window.MathJax) {
-    MathJax.typesetPromise();
-  }
+
+  MathJax.typesetPromise();
 });
 </script>
