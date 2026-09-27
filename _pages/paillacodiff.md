@@ -42,9 +42,9 @@ layout: single
 
 /* Make the page title less dominant */
 .page__title {
-  text-align: right;
-  font-size: 1.25em;
-  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.9em;
+  margin-bottom: 1.8rem;
 }
 
 /* Small documentation index */
