@@ -9,12 +9,24 @@ layout: single
   Loading documentation...
 </div>
 
+<!-- KaTeX -->
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css"
 >
 
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+
+<!-- Prism syntax highlighting -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism.min.css"
+>
+
+<script src="https://cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-mathematica.min.js"></script>
+
+<!-- Markdown -->
 <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension/lib/index.umd.js"></script>
 
@@ -37,9 +49,13 @@ Promise.all(
     fetch(url).then(response => response.text())
   )
 ).then(documents => {
-  document.getElementById("paillacodiff-docs").innerHTML =
+  const container = document.getElementById("paillacodiff-docs");
+
+  container.innerHTML =
     documents
       .map(markdown => marked.parse(markdown))
       .join("<hr>");
+
+  Prism.highlightAllUnder(container);
 });
 </script>
