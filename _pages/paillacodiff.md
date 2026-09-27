@@ -5,6 +5,14 @@ author_profile: false
 layout: single
 ---
 
+<nav id="paillacodiff-index">
+  <a href="#differential-forms">Differential forms</a>
+  <span>·</span>
+  <a href="#tensor-manipulation">Tensor manipulation</a>
+  <span>·</span>
+  <a href="#conventions">Conventions</a>
+</nav>
+
 <div id="paillacodiff-docs">
   Loading documentation...
 </div>
@@ -26,6 +34,36 @@ layout: single
 <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension/lib/index.umd.js"></script>
 
 <style>
+
+/* Hide personal website navigation on this page */
+.masthead {
+  display: none;
+}
+
+/* Make the page title less dominant */
+.page__title {
+  text-align: right;
+  font-size: 1.25em;
+  margin-bottom: 1.5rem;
+}
+
+/* Small documentation index */
+#paillacodiff-index {
+  margin-bottom: 2.5rem;
+  font-size: 0.9em;
+}
+
+#paillacodiff-index span {
+  margin: 0 0.6em;
+}
+
+/* Main documentation sections */
+#differential-forms,
+#tensor-manipulation,
+#conventions {
+  scroll-margin-top: 1rem;
+}
+
 /* Code blocks: use the site's own theme colors */
 #paillacodiff-docs pre[class*="language-"] {
   background: var(--global-code-background-color);
@@ -77,7 +115,7 @@ layout: single
   color: #22b3eb;
 }
 
-/* Function reference layout */
+/* Function entries */
 #paillacodiff-reference h3 {
   border-bottom: none;
   margin-top: 2rem;
@@ -90,19 +128,16 @@ layout: single
   margin: 2rem 0;
 }
 
-#paillacodiff-reference h2 {
-  margin-top: 3rem;
-}
-
-/* Separate the conventions document from the reference */
+/* Separate conventions from the function reference */
 #paillacodiff-conventions {
   margin-top: 4rem;
   padding-top: 2rem;
-  border-top: 3px solid var(--global-border-color);
 }
+
 </style>
 
 <script>
+
 marked.use(markedKatex({
   throwOnError: false
 }));
@@ -120,6 +155,7 @@ Promise.all(
     fetch(url).then(response => response.text())
   )
 ).then(documents => {
+
   const container = document.getElementById("paillacodiff-docs");
 
   container.innerHTML =
@@ -131,6 +167,23 @@ Promise.all(
       ${marked.parse(documents[1])}
     </div>`;
 
+  /* Give the main Markdown headings stable links */
+  const sectionIds = {
+    "Differential forms": "differential-forms",
+    "Tensor manipulation": "tensor-manipulation",
+    "Conventions": "conventions"
+  };
+
+  container.querySelectorAll("h1").forEach(heading => {
+    const id = sectionIds[heading.textContent.trim()];
+
+    if (id) {
+      heading.id = id;
+    }
+  });
+
   Prism.highlightAllUnder(container);
+
 });
+
 </script>
