@@ -5,6 +5,13 @@ author_profile: false
 layout: single
 ---
 
+<p class="paillacodiff-repository">
+  Official repository:
+  <a href="https://github.com/moyarzoca/PaillacoDiff">
+    github.com/moyarzoca/PaillacoDiff
+  </a>
+</p>
+
 <nav id="paillacodiff-index">
   <a href="#differential-forms">Differential forms</a>
   <span>·</span>
